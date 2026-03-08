@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zaber04/day-by-day/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/zaber04/day-by-day/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/zaber04/day-by-day/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zaber04/day-by-day/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/zaber04/day-by-day/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/zaber04/day-by-day/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +38,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/zaber04/day-by-day/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/zaber04/day-by-day/tree/main/1980-find-unique-binary-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/zaber04/day-by-day/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
