@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/zaber04/day-by-day/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/zaber04/day-by-day/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/zaber04/day-by-day/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
