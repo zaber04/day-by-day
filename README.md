@@ -72,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/zaber04/day-by-day/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1622-fancy-sequence](https://github.com/zaber04/day-by-day/tree/main/1622-fancy-sequence/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/zaber04/day-by-day/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/zaber04/day-by-day/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/zaber04/day-by-day/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
